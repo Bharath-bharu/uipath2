@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{font-family: 'Open Sans', sans-serif;}
+p{color:#4d94ff;}
+</style>
+</head>
+<body>
+<p>
+<br><br>
+Hi Folks,
+<br>Our trip has been completed succesfully. I Hope everyone enjoyed we spent money on our trip but memories remains forever... but we can't keep the debt.
+So kindly refer the attached file of our expenses. And kindly settle them :)
+<br><br>
+Thanks,
+<br>
+Regards your lovely Bharu</p><br><br>
+<div style="color:#BD8B13">Bharus Digital  BOT</div><br>
+</body>
+</html>
